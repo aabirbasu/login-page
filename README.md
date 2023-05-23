@@ -1,2 +1,2 @@
 # login-page
-Client-side login project built on HTML and CSS
+Simple client-side login page built on HTML5 and CSS3
