@@ -44,7 +44,6 @@ const validateInputs = () => {
   } else {
     setSuccess(username);
   }
-
   if (emailValue === "") {
     setError(email, "Email is a required field");
   } else if (!isValidEmail(emailValue)) {
